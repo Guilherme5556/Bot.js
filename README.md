@@ -1,0 +1,2 @@
+# Bot.js
+Minecraft bot
